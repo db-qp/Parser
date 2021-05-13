@@ -1,0 +1,14 @@
+
+a , b ;
+{
+a = 2  ;
+b = 1;
+input a;
+IF a > b
+{	output a;
+}
+input b;
+b = a + 17;
+output b;
+}
+11 2 3 1 4
