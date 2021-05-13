@@ -4,7 +4,7 @@ This program mimics a compiler that reads and executes the instrucions. The gram
 In addition, there are test files provided. 
 
 
-Grammar:
+Grammar (open README for better view):
 
 program → var_section body inputs
 var_section → id_list SEMICOLON
